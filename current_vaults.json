@@ -1012,17 +1012,6 @@
     "poolName": "IGG/QUICK"
   },
   {
-    "token0Name": "TITAN",
-    "token1Name": "WETH",
-    "token0": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
-    "token1": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
-    "lpAddress": "0xA28Ade2f27b9554b01964FDCe97eD643301411d9",
-    "stakingAddress": "0x2dF6A6b1B7aA23a842948a81714a2279e603e32f",
-    "strategyAddress": "0x525a3225468Aaa0167056BB6A78e976e53607042",
-    "vaultAddress": "0x9F3C07C9aD90b45070124f56a685283Bf886c0C1",
-    "poolName": "TITAN/WETH"
-  },
-  {
     "token0Name": "FFF",
     "token1Name": "WETH",
     "token0": "0x9aceb6f749396d1930abc9e263efc449e5e82c13",
@@ -1078,16 +1067,81 @@
     "poolName": "ELE/QUICK"
   },
   {
-    "token0Name": "TITAN",
-    "token1Name": "TITAN",
-    "token0": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
-    "token1": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
-    "lpAddress": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
-    "stakingAddress": "0xa37DD1f62661EB18c338f18Cf797cff8b5102d8e",
-    "strategyAddress": "0x383c5d0093473f99788f2f412670c29f70140009",
-    "vaultAddress": "0xA528F4240886ad805e386EdC2Db5DAA1858eC8ae",
-    "singleAsset": "true",
-    "poolName": "TITAN/TITAN"
+    "token0Name": "PBNB",
+    "token1Name": "USDC",
+    "token0": "0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4",
+    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "lpAddress": "0xe55cb144e02cffb6fbd65d9a4bd62378998bc267",
+    "stakingAddress": "0x64ec5b01d6ed81c432ef8628541bb2bf9380b337",
+    "strategyAddress": "0x38c27bb4f3c82cfc539dc96b723e70a9d1f7d306",
+    "vaultAddress": "0x74c03ebc2e460ac8b011efc528bdc1570f09aabd",
+    "poolName": "PBNB/USDC"
+  },
+  {
+    "token0Name": "IOI",
+    "token1Name": "USDC",
+    "token0": "0xaf24765f631c8830b5528b57002241ee7eef1c14",
+    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "lpAddress": "0x8ef139998a743d2cad66df2e750a8c4936f306b9",
+    "stakingAddress": "0x71d5669ea3e0dcfcda0700cef4f867dec4b11dda",
+    "strategyAddress": "0xe4c0183a7bead165dd8fc83d0ad357ce970b6bdd",
+    "vaultAddress": "0x15653b9616241857c3a0e3e44fd995ca021bc4e4",
+    "poolName": "IOI/USDC"
+  },
+  {
+    "token0Name": "MEM",
+    "token1Name": "WETH",
+    "token0": "0x42dbbd5ae373fea2fc320f62d44c058522bb3758",
+    "token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "lpAddress": "0xb0c4464f5351bb9f712ac3e5b21cf97173e85574",
+    "stakingAddress": "0xa553785c55b374ad0eb91ecbef1e7c7d300970ba",
+    "strategyAddress": "0xd8690b256bd3f17693308db568d26426c24d39cf",
+    "vaultAddress": "0x437fb5d452ba67970317460a27051bbbe3574585",
+    "poolName": "MEM/WETH"
+  },
+  {
+    "token0Name": "RAMP",
+    "token1Name": "WETH",
+    "token0": "0xaecebfcf604ad245eaf0d5bd68459c3a7a6399c2",
+    "token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "lpAddress": "0xe55739e1feb9f9aed4ce34830a06ca6cc37494a0",
+    "stakingAddress": "0xbd5f8b3663f5ce456c9f53b26b0f6bc3ea22b6aa",
+    "strategyAddress": "0x8e9bcc7129540c3602608fb32d322c28a4d3f44a",
+    "vaultAddress": "0x3e5b24234fe6d37b10f21cd148ef9013d1edb487",
+    "poolName": "RAMP/WETH"
+  },
+  {
+    "token0Name": "RUSD",
+    "token1Name": "USDC",
+    "token0": "0xfc40a4f89b410a1b855b5e205064a38fc29f5eb5",
+    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "lpAddress": "0x5ef8747d1dc4839e92283794a10d448357973ac0",
+    "stakingAddress": "0x5c1186f784a4fefd53dc40c492b02deed97e7944",
+    "strategyAddress": "0x47f0f1c991932ae4734367043461cfdf5aac0137",
+    "vaultAddress": "0x9ec2f659c5e66696f4667428e4b64547a57c8b11",
+    "poolName": "RUSD/USDC"
+  },
+  {
+    "token0Name": "BORING",
+    "token1Name": "WETH",
+    "token0": "0xff88434e29d1e2333ad6baa08d358b436196da6b",
+    "token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "lpAddress": "0xab71ce8d652c4a858654fbb6450cf2e3116d6062",
+    "stakingAddress": "0x5b0a814d971af818da2bd7a7e1163d11674d4dcb",
+    "strategyAddress": "0xfc32215014d38f1a46c303c7077f862672e3f727",
+    "vaultAddress": "0xba2860b491515d9c8aea4790e34f59263df16c07",
+    "poolName": "BORING/WETH"
+  },
+  {
+    "token0Name": "ERN",
+    "token1Name": "WMATIC",
+    "token0": "0x0e50bea95fe001a370a4f1c220c49aedcb982dec",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0x124de7e03b8ee7363974d5ca3b1868ddf3a23cd3",
+    "stakingAddress": "0xa8f8a46f5dd3f68d2b7b1b04dd20526cebce7e7a",
+    "strategyAddress": "0xbfe08b31b0a195f42e990902ffc49eb8ffe9dcb6",
+    "vaultAddress": "0x3dbf005920cdfc3233fb0aafc56af658521a35e8",
+    "poolName": "ERN/WMATIC"
   },
   {
     "token0Name": "WETH",
@@ -1299,17 +1353,6 @@
     "poolName": "DHT/WETH"
   },
   {
-    "token0Name": "IRON",
-    "token1Name": "WETH",
-    "token0": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
-    "token1": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
-    "lpAddress": "0x01cDCC99a4f9A68be18504750B219Caa881841Eb",
-    "stakingAddress": "0x0769fd68dFb93167989C6f7254cd0D766Fb2841F",
-    "strategyAddress": "0x4804b68153c50de14d1349b9f86138bb912c2617",
-    "vaultAddress": "0xddbbbe7e52c6bcc2a5e5a3298f8f978c51e74caa",
-    "poolName": "IRON/WETH"
-  },
-  {
     "token0Name": "PAUTO",
     "token1Name": "USDC",
     "token0": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
@@ -1374,50 +1417,6 @@
     "strategyAddress": "0xA3cdb70A9b1a36e7c35213D7370D0d3444Cb3857",
     "vaultAddress": "0x60eFA2B0234a70AD7f03A51a67AD93F1f11622eA",
     "poolName": "SNX/ETH"
-  },
-  {
-    "token0Name": "IRON",
-    "token1Name": "USDC",
-    "token0": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
-    "token1": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-    "lpAddress": "0x85de135ff062df790a5f20b79120f17d3da63b2d",
-    "stakingAddress": "0x65430393358e55A658BcdE6FF69AB28cF1CbB77a",
-    "strategyAddress": "0xB1C33832a94Fd922caed659b7bC42BFcFc574cf9",
-    "vaultAddress": "0x7aa078eb0Ebf3C6775572f493f3435aCBC9aB706",
-    "poolName": "IRON/USDC"
-  },
-  {
-    "token0Name": "IRON",
-    "token1Name": "USDC",
-    "token0": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
-    "token1": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-    "lpAddress": "0x2bbe0f728f4d5821f84eee0432d2a4be7c0cb7fc",
-    "stakingAddress": "0x65430393358e55A658BcdE6FF69AB28cF1CbB77a",
-    "strategyAddress": "0x61a94BE8F13A031f3dFE32a800305B5245Cfe77e",
-    "vaultAddress": "0x8abB78265c3F0842703296b7D151837Cb8373bB8",
-    "poolName": "IRON/USDC  (Quick)"
-  },
-  {
-    "token0Name": "TITAN",
-    "token1Name": "WMATIC",
-    "token0": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
-    "token1": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-    "lpAddress": "0xa79983daf2a92c2c902cd74217efe3d8af9fba2a",
-    "stakingAddress": "0x65430393358e55A658BcdE6FF69AB28cF1CbB77a",
-    "strategyAddress": "0xb4b949e65E98944425c96854D744B9A6d2F1C716",
-    "vaultAddress": "0x41914CC3D0eA5a0D60457d35c66067910aE1d65b",
-    "poolName": "TITAN/WMATIC"
-  },
-  {
-    "token0Name": "TITAN",
-    "token1Name": "IRON",
-    "token0": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
-    "token1": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
-    "lpAddress": "0x35c1895DAC1e2432b320e2927b4F71a0D995602F",
-    "stakingAddress": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
-    "strategyAddress": "0x3253e956a0e70a6b65D170511A84e93e16848dae",
-    "vaultAddress": "0xDF70E065EC14eA9a85cF99eC776BF83271Ad11A9",
-    "poolName": "TITAN/IRON"
   },
   {
     "token0Name": "MIMATIC",
