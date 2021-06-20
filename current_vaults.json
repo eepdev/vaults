@@ -1144,6 +1144,17 @@
     "poolName": "ERN/WMATIC"
   },
   {
+    "token0Name": "PBNB",
+    "token1Name": "QUICK",
+    "token0": "0x7e9928afe96fefb820b85b4ce6597b8f660fe4f4",
+    "token1": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+    "lpAddress": "0x53e27dadf6473d062717be8807c453af212c7102",
+    "stakingAddress": "0xffa5b82d09dcae32b9ee96d3cd02c9391b63cdab",
+    "strategyAddress": "0x2d4b1331a7b2026ee86745d433e18ed77bb3b69e",
+    "vaultAddress": "0x7da631577adf1032c05775163d4bd6e12bebad77",
+    "poolName": "PBNB/QUICK"
+  },
+  {
     "token0Name": "WETH",
     "token1Name": "USDC",
     "token0": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
@@ -1538,5 +1549,27 @@
     "strategyAddress": "0xdF056B3E9aeE02886D3efE36028F279a6Db24BB6",
     "vaultAddress": "0x7f8c46a165E87aeb244f0205E3Dae572907588B5",
     "poolName": "WAULTX/WMATIC"
+  },
+  {
+    "token0Name": "POLYDOGE",
+    "token1Name": "WMATIC",
+    "token0": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0x1a881D021d346C5433B2cf8FB46Ee00Dec89070d",
+    "stakingAddress": "0xC8Bd86E5a132Ac0bf10134e270De06A8Ba317BFe",
+    "strategyAddress": "0x5374c4be8de096cc8c6aa0e10d242ab28da47b3e",
+    "vaultAddress": "0xd49394c7442c499382976fd2b524c787d6a2b167",
+    "poolName": "POLYDOGE/WMATIC"
+  },
+  {
+    "token0Name": "OMEN",
+    "token1Name": "USDC",
+    "token0": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+    "token1": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "lpAddress": "0x50409De292f5F821888702e9538Bf15Fa273dFE6",
+    "stakingAddress": "0x6ad70613d14c34aa69E1604af91c39e0591a132e",
+    "strategyAddress": "0x73755f723abbC92B1848ba2b7541B9808D3e7Ad3",
+    "vaultAddress": "0xeeb570cCd8c17bc38988C04a0678Ea85593219d4",
+    "poolName": "OMEN/USDC"
   }
 ]
