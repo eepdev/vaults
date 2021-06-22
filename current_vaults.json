@@ -1,5 +1,82 @@
 [
   {
+    "token0Name": "BANANA",
+    "token1Name": "WMATIC",
+    "token0": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0x034293F21F1cCE5908BC605CE5850dF2b1059aC0",
+    "stakingAddress": "0x54aff400858Dcac39797a81894D9920f16972D1D",
+    "strategyAddress": "0x71450EB9F5f51809db637B9383c615bbd6dD14d3",
+    "vaultAddress": "0x478d3a124ad0A33A6ccbda8D9a58b858c4cc1857",
+    "poolName": "BANANA/WMATIC"
+  },
+  {
+    "token0Name": "WETH",
+    "token1Name": "WMATIC",
+    "token0": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0x6Cf8654e85AB489cA7e70189046D507ebA233613",
+    "stakingAddress": "0x54aff400858Dcac39797a81894D9920f16972D1D",
+    "strategyAddress": "0x74Bff2036770cc93240341C96226720ca710eAac",
+    "vaultAddress": "0x87e376521aFB9cc5f1e953a2A1678e6e52F3719D",
+    "poolName": "WETH/WMATIC"
+  },
+  {
+    "token0Name": "DAI",
+    "token1Name": "WMATIC",
+    "token0": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0xd32f3139A214034A0f9777c87eE0a064c1FF6AE2",
+    "stakingAddress": "0x54aff400858Dcac39797a81894D9920f16972D1D",
+    "strategyAddress": "0xB2CDfE47857224e62a9E1d2173076682d678Ed02",
+    "vaultAddress": "0x3401Bb77F460E4bC1ac358001bC02d96C074c9e3",
+    "poolName": "DAI/WMATIC"
+  },
+  {
+    "token0Name": "USDT",
+    "token1Name": "WMATIC",
+    "token0": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0x65D43B64E3B31965Cd5EA367D4c2b94c03084797",
+    "stakingAddress": "0x54aff400858Dcac39797a81894D9920f16972D1D",
+    "strategyAddress": "0xcEC08F5B07F1a99D2EdCb312BF44bDcC9D1F541C",
+    "vaultAddress": "0x8533E598c57c4c656D9712362C0BddBBB5a57787",
+    "poolName": "USDT/WMATIC"
+  },
+  {
+    "token0Name": "WBTC",
+    "token1Name": "WMATIC",
+    "token0": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0xe82635a105c520fd58e597181cBf754961d51E3e",
+    "stakingAddress": "0x54aff400858Dcac39797a81894D9920f16972D1D",
+    "strategyAddress": "0x49290dA7941a8f62C088B03348a847a2B460b8d9",
+    "vaultAddress": "0x3E1486C0fc305c91E618A8E5532B8Cf74FcAA91f",
+    "poolName": "WBTC/WMATIC"
+  },
+  {
+    "token0Name": "USDC",
+    "token1Name": "DAI",
+    "token0": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "token1": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+    "lpAddress": "0x5b13B583D4317aB15186Ed660A1E4C65C10da659",
+    "stakingAddress": "0x54aff400858Dcac39797a81894D9920f16972D1D",
+    "strategyAddress": "0x98962017afDC620fADB098899e85D9d71f326325",
+    "vaultAddress": "0x69A48F381Dbae06f9db34eFdDBfc05d08E0Bd579",
+    "poolName": "USDC/DAI"
+  },
+  {
+    "token0Name": "BNB",
+    "token1Name": "WMATIC",
+    "token0": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0x0359001070cF696D5993E0697335157a6f7dB289",
+    "stakingAddress": "0x54aff400858Dcac39797a81894D9920f16972D1D",
+    "strategyAddress": "0x8Ff473D8740fbE1b4F82E724b931c0AC6c1Be2dA",
+    "vaultAddress": "0x0eb4f1d616Fd4dD31B902edC2683E3f01cc0b556",
+    "poolName": "BNB/WMATIC"
+  },
+  {
     "token0Name": "AAVE",
     "token1Name": "CRV",
     "token0": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
