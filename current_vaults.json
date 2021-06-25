@@ -1067,7 +1067,7 @@
     "poolName": "QI/QUICK"
   },
   {
-    "token0Name": "MIMATIC",
+    "token0Name": "MAI",
     "token1Name": "USDC",
     "token0": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
     "token1": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
@@ -1075,7 +1075,7 @@
     "stakingAddress": "0x1fdDd7F3A4c1f0e7494aa8B637B8003a64fdE21A",
     "strategyAddress": "0x83273eb8552518b4aab3af243572e72bf01c2e9f",
     "vaultAddress": "0xb42c25793cf287ec886806df2784ae4bea75bd02",
-    "poolName": "MIMATIC/USDC"
+    "poolName": "MAI/USDC"
   },
   {
     "token0Name": "IGG",
@@ -1782,5 +1782,49 @@
     "strategyAddress": "0xc609a9fd88d760363e9a2ff28f3d2497eda35707",
     "vaultAddress": "0x8fb8b80ccd15912b8878d41f4c30a8414fe61385",
     "poolName": "ADDY/WMATIC"
+  },
+  {
+    "token0Name": "YELD",
+    "token1Name": "WMATIC",
+    "token0": "0xd0f3121A190d85dE0AB6131f2bCEcdbfcfB38891",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0xef71F798c15f8C9732488e109BB511144088bECe",
+    "stakingAddress": "0x2DC11B394BD0f1CC6AC0a269cfe3CC0b333601B4",
+    "strategyAddress": "0x86DcE0b38D51F4A00DaF57939A26d7483B11B5E0",
+    "vaultAddress": "0x8A45725646a62436B0738D9414f4a5DD8437cd70",
+    "poolName": "YELD/WMATIC"
+  },
+  {
+    "token0Name": "YELD",
+    "token1Name": "USDC",
+    "token0": "0xd0f3121A190d85dE0AB6131f2bCEcdbfcfB38891",
+    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "lpAddress": "0xAD8f4c66b28756458Fc419AA67aD2207A21A6997",
+    "stakingAddress": "0x2DC11B394BD0f1CC6AC0a269cfe3CC0b333601B4",
+    "strategyAddress": "0xdcD8668b48f25C4A90641d3Baa14eCEE94fD683E",
+    "vaultAddress": "0x07D2F007Fb76d296A88dE2e26df6B6d8eea9479D",
+    "poolName": "YELD/USDC"
+  },
+  {
+    "token0Name": "YELD",
+    "token1Name": "WMATIC",
+    "token0": "0xd0f3121A190d85dE0AB6131f2bCEcdbfcfB38891",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0xdD650C8d274474FF1af1152B3B27f2702AcA8a98",
+    "stakingAddress": "0x2DC11B394BD0f1CC6AC0a269cfe3CC0b333601B4",
+    "strategyAddress": "0xC530e81Fd2e1FbEf7ABBB6F8D8c57cD01a60cbc1",
+    "vaultAddress": "0x52Da1785837E2645e8feD2C8f751DfEf4cb5e552",
+    "poolName": "YELD/WMATIC"
+  },
+  {
+    "token0Name": "YELD",
+    "token1Name": "WMATIC",
+    "token0": "0xd0f3121A190d85dE0AB6131f2bCEcdbfcfB38891",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0xC1Dd63cA154837AC4356D888F7c10fbBe442407e",
+    "stakingAddress": "0x2DC11B394BD0f1CC6AC0a269cfe3CC0b333601B4",
+    "strategyAddress": "0x367a760928a0eC3ccd927Eb9397b7582fEf6C002",
+    "vaultAddress": "0x4dbD2ca9870f8d43116fC234c9f5DdBb373B0a43",
+    "poolName": "YELD/WMATIC"
   }
 ]
