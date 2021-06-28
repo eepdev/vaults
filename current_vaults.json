@@ -573,14 +573,14 @@
   },
   {
     "token0Name": "FISH",
-    "token1Name": "WETH",
+    "token1Name": "USDC",
     "token0": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
     "token1": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
     "lpAddress": "0x0df9e46c0eaedf41b9d4bbe2cea2af6e8181b033",
     "stakingAddress": "0xf92CF9141a0bE91918cF16804858ba5dEdd4760B",
     "strategyAddress": "0x89B738292A797923CD1351386db797a8B46861D7",
     "vaultAddress": "0x4acefDA5c5910B04F898443D94537BeAEf1a65cC",
-    "poolName": "FISH/WETH"
+    "poolName": "FISH/USDC"
   },
   {
     "token0Name": "PAUTO",
@@ -1285,6 +1285,28 @@
     "strategyAddress": "0x13e2E6DFcd0aE0f37B31E448a716Fc764cDf6C1a",
     "vaultAddress": "0xED4857af48e6135b0cC583Ef96771C668bC1ec54",
     "poolName": "ELK/MATIC"
+  },
+  {
+    "token0Name": "PUSD",
+    "token1Name": "USDC",
+    "token0": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "lpAddress": "0xc30D6Bc42911Aa21A63E51c7121B33b3E65cC3c4",
+    "stakingAddress": "0xcb881b62a97cb733d01c59eb8326b239e283e6a4",
+    "strategyAddress": "0x1ddc1f9Fe0e6E7BF9be421Ca818D39004F3fDAA8",
+    "vaultAddress": "0xc1bdbF2457e0B7F237CC0F922cA4B45e8723f35A",
+    "poolName": "PUSD/USDC"
+  },
+  {
+    "token0Name": "PYQ",
+    "token1Name": "USDC",
+    "token0": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
+    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "lpAddress": "0xd3924Ad8F881514efF89503Be9027B877E9e2bd0",
+    "stakingAddress": "0x2b8e5367628df1481be945b685adf0968f1965e7",
+    "strategyAddress": "0x8970a9Df4cEB7B70ee016d8aCdF3d58cd66ad7fF",
+    "vaultAddress": "0xD509e5652e38AD685bf23b5a1e8f53480CF6c3FE",
+    "poolName": "PYQ/USDC"
   },
   {
     "token0Name": "OMEN",
