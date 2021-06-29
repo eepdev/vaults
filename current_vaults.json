@@ -1333,6 +1333,18 @@
     "poolName": "WEXPOLY/WEXPOLY"
   },
   {
+    "token0Name": "PUSD",
+    "token1Name": "PUSD",
+    "token0": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+    "token1": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+    "lpAddress": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+    "stakingAddress": "0x445098d74B6eB4f3BCF20865989b777ee405a48C",
+    "strategyAddress": "0x01338e72681E4BC8Df00f21451439F10caffd828",
+    "vaultAddress": "0x60b7045A5337ae117fdf6Bc4d0831C4bCA28C4Bc",
+    "singleAsset": "true",
+    "poolName": "PUSD/PUSD"
+  },
+  {
     "token0Name": "WETH",
     "token1Name": "USDC",
     "token0": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
@@ -1808,7 +1820,7 @@
   {
     "token0Name": "GFI",
     "token1Name": "USDC",
-    "token0": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+    "token0": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
     "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
     "lpAddress": "0xb1f3555a7c3753ab4e6df1d66cfdb25477a36ce7",
     "stakingAddress": "0xE6584E2432ef0b82A39C383e895E7e031655F2Bf",
@@ -1819,7 +1831,7 @@
   {
     "token0Name": "GFI",
     "token1Name": "WETH",
-    "token0": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+    "token0": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
     "token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
     "lpAddress": "0x1587663e8f475e69ea2dbb38482c8c4ee9f388fb",
     "stakingAddress": "0xEf943A1B9A5E697Eb26B1cfc5e9225D2Aa00395a",
