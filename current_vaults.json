@@ -100,6 +100,18 @@
     "poolName": "atricrypto"
   },
   {
+    "token0Name": "WBTC",
+    "token1Name": "WBTC",
+    "token0": "0xf8a57c1d3b9629b77b6726a042ca48990A84Fb49",
+    "token1": "0xf8a57c1d3b9629b77b6726a042ca48990A84Fb49",
+    "lpAddress": "0xf8a57c1d3b9629b77b6726a042ca48990A84Fb49",
+    "stakingAddress": "0xffbACcE0CC7C19d46132f1258FC16CF6871D153c",
+    "strategyAddress": "0xab76ad5e79E23c40fE542e6C46E6AC36e63A35ab",
+    "vaultAddress": "0xEAE4A00c43baD1753020098c6A17A82c4d8BAcaA",
+    "singleAsset": "true",
+    "poolName": "RENBTC/WBTC"
+  },
+  {
     "token0Name": "WETH",
     "token1Name": "USDC",
     "token0": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
@@ -1308,6 +1320,17 @@
     "strategyAddress": "0x8970a9Df4cEB7B70ee016d8aCdF3d58cd66ad7fF",
     "vaultAddress": "0xD509e5652e38AD685bf23b5a1e8f53480CF6c3FE",
     "poolName": "PYQ/USDC"
+  },
+  {
+    "token0Name": "WMATIC",
+    "token1Name": "PUSD",
+    "token0": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "token1": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+    "lpAddress": "0x022268Fc83395ACE2BD0129A8D752E35C24Ff90d",
+    "stakingAddress": "0x62dcaC823D1f6d27Fb5e2d0728887D5531A29A7A",
+    "strategyAddress": "0xF028595e4421629fA0915A47a0bAa0ab5FD304f7",
+    "vaultAddress": "0xf06AdAEff437E4206D70e304826069805F614F22",
+    "poolName": "WMATIC/PUSD"
   },
   {
     "token0Name": "WOO",
