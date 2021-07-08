@@ -1157,6 +1157,17 @@
     "poolName": "RAMP/WETH"
   },
   {
+    "token0Name": "RENDOGE",
+    "token1Name": "WETH",
+    "token0": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
+    "token1": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "lpAddress": "0xAB1403De66519B898b38028357B74DF394a54a37",
+    "stakingAddress": "0xe2519a7b81Cf038C055ddD667A9c06A0790945f4",
+    "strategyAddress": "0xe22e5be36d7512885dbe95f07ea302d420955cc0",
+    "vaultAddress": "0x920fa2ce05792a32bde1a62ce1bda5dfb7ea1dd2",
+    "poolName": "RENDOGE/WETH"
+  },
+  {
     "token0Name": "RUSD",
     "token1Name": "USDC",
     "token0": "0xfc40a4f89b410a1b855b5e205064a38fc29f5eb5",
