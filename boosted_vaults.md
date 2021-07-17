@@ -1,0 +1,7 @@
+# DinoSwap
+
+* DINO/USDC
+* WMATIC/WETH
+* MAI/USDC
+* USDC/USDT
+* USDC/WETH
