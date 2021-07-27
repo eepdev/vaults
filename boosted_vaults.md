@@ -29,6 +29,7 @@
 * CGG/QUICK
 * FOR/QUICK
 * NEXO/QUICK
+* renDGB/QUICK
 
 # DinoSwap (legacy boost system)
 
