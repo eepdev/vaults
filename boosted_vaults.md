@@ -31,9 +31,9 @@
 * NEXO/QUICK
 * renDGB/QUICK
 
-# DinoSwap (legacy boost system)
+# DinoSwap
 
-* WMATIC/WETH
+* WMATIC/WETH (in 12 hrs)
 * MAI/USDC
 * USDC/USDT
 * USDC/WETH
