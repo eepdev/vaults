@@ -1,5 +1,6 @@
 # QuickSwap
 
+## QUICK pairs
 * QUICK/HEX
 * QUICK/SUPER
 * CC10/QUICK
@@ -31,7 +32,7 @@
 * NEXO/QUICK
 * renDGB/QUICK
 * YAMP/QUICK
-
+## Other pairs
 * YAMP/USD
 * GUARD/USDC
 
