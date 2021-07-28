@@ -33,7 +33,7 @@
 
 # DinoSwap
 
-* WMATIC/WETH (in 12 hrs)
+* WMATIC/WETH
 * MAI/USDC
 * USDC/USDT
 * USDC/WETH
