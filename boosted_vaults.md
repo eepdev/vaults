@@ -30,6 +30,11 @@
 * FOR/QUICK
 * NEXO/QUICK
 * renDGB/QUICK
+* YAMP/QUICK
+
+* YAMP/USD
+* GUARD/USDC
+
 
 # DinoSwap
 
