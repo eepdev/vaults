@@ -1074,8 +1074,8 @@
     "token1": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
     "lpAddress": "0x7afcf11f3e2f01e71b7cc6b8b5e707e42e6ea397",
     "stakingAddress": "0x574Fe4E8120C4Da1741b5Fd45584de7A5b521F0F",
-    "strategyAddress": "0xFe81087aBE3AB14C076d64C2F622b5CE0E72cCc8",
-    "vaultAddress": "0x876801319ee837DbC494f6B1D87B73fF2fb80C25",
+    "strategyAddress": "0x34617cFE615c0e09E199c4ca609E750c0b57649b",
+    "vaultAddress": "0x80506dBe1FE9DAbbD3F4D92Fc1CBA4866131bF82",
     "poolName": "QI/MAI"
   },
   {
@@ -1507,6 +1507,17 @@
     "strategyAddress": "0xcEC08F5B07F1a99D2EdCb312BF44bDcC9D1F541C",
     "vaultAddress": "0x8533E598c57c4c656D9712362C0BddBBB5a57787",
     "poolName": "USDT/WMATIC"
+  },
+  {
+    "token0Name": "UST",
+    "token1Name": "USDT",
+    "token0": "0x692597b009d13c4049a947cab2239b7d6517875f",
+    "token1": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+    "lpAddress": "0x39BEd7f1C412ab64443196A6fEcb2ac20C707224",
+    "stakingAddress": "0x1948abC5400Aa1d72223882958Da3bec643fb4E5",
+    "strategyAddress": "0xc93052C482b622f0e3eDbC72a1e093e623c00F3A",
+    "vaultAddress": "0x37a1B97298715A748A990D42bd8ADC3E84850953",
+    "poolName": "UST/USDT"
   },
   {
     "token0Name": "WAULTX",
