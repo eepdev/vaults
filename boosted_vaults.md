@@ -48,3 +48,8 @@
 * USDC/XMARK
 * WETH/SX
 * WMATIC/CGG
+
+
+# Qi Dao
+
+* QI/MAI
