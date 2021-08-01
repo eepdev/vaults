@@ -53,3 +53,13 @@
 # Qi Dao
 
 * QI/MAI
+
+
+# Dfyn
+
+* DFYN-WMATIC
+* DFYN-LUNA
+* DFYN-LINK
+* DFYN-UNI
+* DFYN-AAVE
+* DFYN-CRV
