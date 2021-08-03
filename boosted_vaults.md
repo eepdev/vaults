@@ -14,6 +14,13 @@
 * USDC/XMARK
 * WETH/SX
 * WMATIC/CGG
+* ARPA/WETH
+
+# Wault
+* All Wault vaults are boosted except for wexPOLY single-staking.
+
+# ApeSwap
+* All ApeSwap vaults are boosted.
 
 # Qi Dao
 * QI/MAI
