@@ -20,4 +20,4 @@
 * QI/MAI
 
 # Dfyn
-* All Dfyn vaults are boosted.
+* All Dfyn-paired vaults are boosted.
