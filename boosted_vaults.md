@@ -1,8 +1,8 @@
 # QuickSwap
-* All Quickswap vaults are boosted
+* All Quickswap vaults are boosted.
 
 # Elk
-* All Elk vaults are boosted
+* All Elk vaults are boosted.
 
 # DinoSwap
 * WMATIC/WETH
@@ -17,7 +17,7 @@
 * ARPA/WETH
 
 # Wault
-* All Wault vaults are boosted except for wexPOLY single-staking.
+* All Wault vaults are boosted.
 
 # ApeSwap
 * All ApeSwap vaults are boosted.
