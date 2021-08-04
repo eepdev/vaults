@@ -1,20 +1,14 @@
 # QuickSwap
 * All Quickswap vaults are boosted.
 
+# SushiSwap
+* All SushiSwap vaults are boosted.
+
 # Elk
 * All Elk vaults are boosted.
 
 # DinoSwap
-* WMATIC/WETH
-* MAI/USDC
-* USDC/USDT
-* USDC/WETH
-* WETH/BEL
-* WETH/DFYN
-* USDC/XMARK
-* WETH/SX
-* WMATIC/CGG
-* ARPA/WETH
+* All DinoSwap vaults except for DINO/USDC and DINO/WETH are boosted.
 
 # Wault
 * All Wault vaults are boosted.
@@ -26,8 +20,4 @@
 * QI/MAI
 
 # Dfyn
-* DFYN-WMATIC
-* DFYN-LINK
-* DFYN-UNI
-* DFYN-AAVE
-* DFYN-CRV
+* All Dfyn vaults are boosted.
