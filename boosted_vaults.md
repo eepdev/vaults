@@ -21,3 +21,6 @@
 
 # Dfyn
 * All Dfyn-paired vaults are boosted.
+
+# Curve
+* All Curve vaults are boosted.
