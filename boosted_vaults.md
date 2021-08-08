@@ -17,7 +17,7 @@
 * All ApeSwap vaults are boosted.
 
 # Qi Dao
-* QI/MAI
+* All Qi Dao vaults are boosted.
 
 # Dfyn
 * All Dfyn-paired vaults are boosted.
