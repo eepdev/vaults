@@ -1159,8 +1159,8 @@
     "token1": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
     "lpAddress": "0x160532d2536175d65c03b97b0630a9802c274dad",
     "stakingAddress": "0x574Fe4E8120C4Da1741b5Fd45584de7A5b521F0F",
-    "strategyAddress": "0x8074A90B761A66e56DebD32E3BF409C4E32d1d31",
-    "vaultAddress": "0x2842d8Ae8A7Dd89c0107F02f1e0e1db50103Ca2e",
+    "strategyAddress": "0x5aAad43A6749BDEF19Df7eE3eBD4848200C190c5",
+    "vaultAddress": "0xAeF8e2e099a8Fb2ce2272F65bDA11475650a0855",
     "platform": "mai",
     "poolName": "MAI/USDC"
   },
