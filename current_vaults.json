@@ -132,6 +132,30 @@
     "poolName": "AGA/AGAr"
   },
   {
+    "token0Name": "ARCADIUM",
+    "token1Name": "USDC",
+    "token0": "0x3F374ed3C8e61A0d250f275609be2219005c021e",
+    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "lpAddress": "0xB5DB659c561Dc84ec9D42d4277a5e01F3B69537b",
+    "stakingAddress": "0x9DD1fe32Aff4060c12E2b42961548876053187c6",
+    "strategyAddress": "0x16260A1f4cb680e3b624F5258483ACF9ff17F5B5",
+    "vaultAddress": "0xD2f3F706Eefb3dFef9dfb6724797Ee709ec537Ab",
+    "platform": "arcadium",
+    "poolName": "ARCADIUM/USDC"
+  },
+  {
+    "token0Name": "ARCADIUM",
+    "token1Name": "WMATIC",
+    "token0": "0x3F374ed3C8e61A0d250f275609be2219005c021e",
+    "token1": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "lpAddress": "0x0bbAFa51e13829C9e96AA84b158F51fC80b276E2",
+    "stakingAddress": "0x9DD1fe32Aff4060c12E2b42961548876053187c6",
+    "strategyAddress": "0x514767EAd29546C2b4fEf1253E6CFD64BB5611D3",
+    "vaultAddress": "0x8F7A472FBB886578B647D2382Bc6Adc1F47BD5A7",
+    "platform": "arcadium",
+    "poolName": "ARCADIUM/WMATIC"
+  },
+  {
     "token0Name": "ARIA20",
     "token1Name": "WETH",
     "token0": "0x46f48fbdedaa6f5500993bede9539ef85f4bee8e",
@@ -600,6 +624,18 @@
     "poolName": "DFYN/WMATIC"
   },
   {
+    "token0Name": "DG",
+    "token1Name": "USDC",
+    "token0": "0x2a93172c8dccbfbc60a39d56183b7279a2f647b4",
+    "token1": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "lpAddress": "0x27CE41B9eeB94cC122eF3B5e409b2900d3e0A629",
+    "stakingAddress": "0x1948abC5400Aa1d72223882958Da3bec643fb4E5",
+    "strategyAddress": "0xDb776Ed0968E22a37bF58980727B0BF0E988Ed9B",
+    "vaultAddress": "0x76e2c4f29F0A7bd42666C897dE8f54B737e58408",
+    "platform": "dino",
+    "poolName": "DG/USDC"
+  },
+  {
     "token0Name": "DHT",
     "token1Name": "WETH",
     "token0": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
@@ -995,6 +1031,30 @@
     "vaultAddress": "0x189a634E4C8A15B9175D369216676c0C2b2E8A5a",
     "platform": "sushi",
     "poolName": "FRAX/USDC"
+  },
+  {
+    "token0Name": "FRIENDS",
+    "token1Name": "USDC",
+    "token0": "0xa509Da749745Ac07E9Ae47E7a092eAd2648B47f2",
+    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "lpAddress": "0xf66502FAbC81e64AD6E3A8Fd60bDA4a705A72BD0",
+    "stakingAddress": "0x9DD1fe32Aff4060c12E2b42961548876053187c6",
+    "strategyAddress": "0xC108D46f8C78ADcDEbAc3c66e884A04209a19A62",
+    "vaultAddress": "0xe2e853D247AB9aBaf983fc66C2190F944aFe9323",
+    "platform": "arcadium",
+    "poolName": "FRIENDS/USDC"
+  },
+  {
+    "token0Name": "FRIENDS",
+    "token1Name": "WMATIC",
+    "token0": "0xa509Da749745Ac07E9Ae47E7a092eAd2648B47f2",
+    "token1": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "lpAddress": "0x3512638F2112098248Eb6Eab947257df82C7C117",
+    "stakingAddress": "0x9DD1fe32Aff4060c12E2b42961548876053187c6",
+    "strategyAddress": "0xf71c8eEE8E65a3AEf38318d4464C9804DbEafDc8",
+    "vaultAddress": "0xD8e91CC272E306F8235374A878D0fAf4CB18f12b",
+    "platform": "arcadium",
+    "poolName": "FRIENDS/WMATIC"
   },
   {
     "token0Name": "GAME",
@@ -1668,6 +1728,18 @@
     "vaultAddress": "0xb3B83Ff44CFb3b9A3f9DC19cc11f57858B0A9962",
     "platform": "quick",
     "poolName": "RENDOGE/WETH"
+  },
+  {
+    "token0Name": "ROUTE",
+    "token1Name": "WETH",
+    "token0": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+    "token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "lpAddress": "0xeBC4f9B1cE66258AC3A48578FFEEba1330dDB68B",
+    "stakingAddress": "0x1948abC5400Aa1d72223882958Da3bec643fb4E5",
+    "strategyAddress": "0xAE71158b5156B0c689BbD8A6f06FBa07Ee293CbB",
+    "vaultAddress": "0xe6cebE217DE005Cd14574ed77ab98cA09686536e",
+    "platform": "dino",
+    "poolName": "ROUTE/WETH"
   },
   {
     "token0Name": "RUSD",
