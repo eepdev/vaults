@@ -1165,6 +1165,19 @@
     "poolName": "ICE/USDC"
   },
   {
+    "token0Name": "IMUSD",
+    "token1Name": "IMUSD",
+    "token0": "0x5290Ad3d83476CA6A2b178Cd9727eE1EF72432af",
+    "token1": "0x5290Ad3d83476CA6A2b178Cd9727eE1EF72432af",
+    "lpAddress": "0x5290Ad3d83476CA6A2b178Cd9727eE1EF72432af",
+    "stakingAddress": "0x32aBa856Dc5fFd5A56Bcd182b13380e5C855aa29",
+    "strategyAddress": "0xABf94c1f5f2bdcf20f29fde4279D189b77910B3F",
+    "vaultAddress": "0x55c1436F93d91073c96B92f9b5a1109eAAA9E093",
+    "singleAsset": "true",
+    "platform": "mstable",
+    "poolName": "IMUSD"
+  },
+  {
     "token0Name": "IMX",
     "token1Name": "QUICK",
     "token0": "0x60bB3D364B765C497C8cE50AE0Ae3f0882c5bD05",
