@@ -156,6 +156,18 @@
     "poolName": "ARPA/WETH"
   },
   {
+    "token0Name": "AVAX",
+    "token1Name": "WMATIC",
+    "token0": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0xEb477AE74774b697B5D515eF8ca09e24FEe413b5",
+    "stakingAddress": "0x02e33E4713Cf231D4b7A9894DE3F075A16e19201",
+    "strategyAddress": "0x4A3A289102bc48C268d137B273af6abe36B37eDF",
+    "vaultAddress": "0x6E77B3803847Aa573Fbd796eCe43C64DF88c811D",
+    "platform": "quick",
+    "poolName": "AVAX/WMATIC"
+  },
+  {
     "token0Name": "AZUKI",
     "token1Name": "ETH",
     "token0": "0x7cdc0421469398e0f3aa8890693d86c840ac8931",
@@ -1163,30 +1175,6 @@
     "vaultAddress": "0xBa4dc7C53AA97aB719e228Cb569e4AAaF365b347",
     "platform": "quick",
     "poolName": "GBTS/USDC"
-  },
-  {
-    "token0Name": "GFI",
-    "token1Name": "USDC",
-    "token0": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
-    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-    "lpAddress": "0xb1f3555a7c3753ab4e6df1d66cfdb25477a36ce7",
-    "stakingAddress": "0x037013d0952a0215cc235f176e9eb88e6a465970",
-    "strategyAddress": "0xB178f5D05aA377C6e4Ea4f6D20b1980fD8af4289",
-    "vaultAddress": "0x01bFD1BD21C999737261b7a347d6054a12B45897",
-    "platform": "gravity",
-    "poolName": "GFI/USDC"
-  },
-  {
-    "token0Name": "GFI",
-    "token1Name": "WETH",
-    "token0": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
-    "token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
-    "lpAddress": "0x1587663e8f475e69ea2dbb38482c8c4ee9f388fb",
-    "stakingAddress": "0xA85587945C97359d64d94d141BF1D95C215D1626",
-    "strategyAddress": "0x0feB5d004D73385942C3c32929c6BAa020826A7C",
-    "vaultAddress": "0xAA4a628Ee8135542aE8BfBabFe34016B24e0E280",
-    "platform": "gravity",
-    "poolName": "GFI/WETH"
   },
   {
     "token0Name": "GRT",
