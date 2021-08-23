@@ -1274,6 +1274,19 @@
   },
   {
     "token0Name": "GFI",
+    "token1Name": "GFI",
+    "token0": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
+    "token1": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
+    "lpAddress": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
+    "stakingAddress": "0x8105662cf0F7c1A9d4066E7F2C81049049bC184d",
+    "strategyAddress": "0xb380Ace536D91945f80F29d072C1915fb0898E37",
+    "vaultAddress": "0x5F9ddfaD9EF50A7a3dBc03B54d1BE2DA4e819B27",
+    "singleAsset": "true",
+    "platform": "gravity",
+    "poolName": "GFI"
+  },
+  {
+    "token0Name": "GFI",
     "token1Name": "USDC",
     "token0": "0x874e178a2f3f3f9d34db862453cd756e7eab0381",
     "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
