@@ -807,6 +807,18 @@
   {
     "token0Name": "DNXC",
     "token1Name": "USDC",
+    "token0": "0xcaf5191fc480f43e4df80106c7695eca56e48b18",
+    "token1": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "lpAddress": "0xE169a660d720917B4fB7e95f045B6f60a64EB10A",
+    "stakingAddress": "0x1948abC5400Aa1d72223882958Da3bec643fb4E5",
+    "strategyAddress": "0x2C0F6EFC03ED16f9d2549a41dfc17b17983C958d",
+    "vaultAddress": "0xF4e95a3Da49fC5B28CDAeFb31D4409239C37196F",
+    "platform": "dino",
+    "poolName": "DNXC/USDC"
+  },
+  {
+    "token0Name": "DNXC",
+    "token1Name": "USDC",
     "token0": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
     "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
     "lpAddress": "0xE169a660d720917B4fB7e95f045B6f60a64EB10A",
@@ -2166,15 +2178,15 @@
   {
     "token0Name": "TRICRYPTO",
     "token1Name": "TRICRYPTO",
-    "token0": "0x8096ac61db23291252574D49f036f0f9ed8ab390",
-    "token1": "0x8096ac61db23291252574D49f036f0f9ed8ab390",
-    "lpAddress": "0x8096ac61db23291252574D49f036f0f9ed8ab390",
-    "stakingAddress": "0xb0a366b987d77b5ed5803cbd95c80bb6deab48c0",
-    "strategyAddress": "0x52E2DB3C780c1818A7d950d3bc1B0b6108b4f4CE",
-    "vaultAddress": "0xa99Dcc992f31bb3b33dF787Ab85c7cEBD5938204",
+    "token0": "0xbece5d20A8a104c54183CC316C8286E3F00ffC71",
+    "token1": "0xbece5d20A8a104c54183CC316C8286E3F00ffC71",
+    "lpAddress": "0xbece5d20A8a104c54183CC316C8286E3F00ffC71",
+    "stakingAddress": "0x9bd996Db02b3f271c6533235D452a56bc2Cd195a",
+    "strategyAddress": "0x67590250C90600640C282aAdf6775085741279F3",
+    "vaultAddress": "0xe5c26433AE0d887d9aBB1BFaAEeA7779b5cD0294",
     "singleAsset": "true",
     "platform": "curve",
-    "poolName": "atricrypto"
+    "poolName": "atricrypto2"
   },
   {
     "token0Name": "UBT",
