@@ -1406,6 +1406,18 @@
     "poolName": "IBBTC/WBTC"
   },
   {
+    "token0Name": "IRON",
+    "token1Name": "ICE",
+    "token0": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+    "token1": "0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef",
+    "lpAddress": "0x7e2cc09d3d36b3aF6EdfF55B214fd62885234E95",
+    "stakingAddress": "0x1fD1259Fa8CdC60c6E8C86cfA592CA1b8403DFaD",
+    "strategyAddress": "0x6266158E5B1d6a2E2a608325D9284BF62B77ff4C",
+    "vaultAddress": "0x7E9c694325646F58aeB78d91d2Cef4F6C7347541",
+    "platform": "iron",
+    "poolName": "ICE/IRON"
+  },
+  {
     "token0Name": "ICE",
     "token1Name": "USDC",
     "token0": "0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef",
@@ -2296,6 +2308,19 @@
     "singleAsset": "true",
     "platform": "curve",
     "poolName": "atricrypto2"
+  },
+  {
+    "token0Name": "TRICRYPTO",
+    "token1Name": "TRICRYPTO",
+    "token0": "0xdAD97F7713Ae9437fa9249920eC8507e5FbB23d3",
+    "token1": "0xdAD97F7713Ae9437fa9249920eC8507e5FbB23d3",
+    "lpAddress": "0xdAD97F7713Ae9437fa9249920eC8507e5FbB23d3",
+    "stakingAddress": "0x3B6B158A76fd8ccc297538F454ce7B4787778c7C",
+    "strategyAddress": "0xD958eCB54C25627C52Aa73148c9Eb8F9d22E2cc7",
+    "vaultAddress": "0x3c2838d388A165A1033fA3eB0aAe3f1D8B08f6d8",
+    "singleAsset": "true",
+    "platform": "curve",
+    "poolName": "atricrypto3"
   },
   {
     "token0Name": "UBT",
