@@ -169,6 +169,18 @@
   },
   {
     "token0Name": "AVAX",
+    "token1Name": "WETH",
+    "token0": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+    "token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+    "lpAddress": "0x1274De0DE2e9D9b1d0E06313c0E5EdD01CC335eF",
+    "stakingAddress": "0x4e22399070aD5aD7f7BEb7d3A7b543e8EcBf1d85",
+    "strategyAddress": "0xCDd91b82e61A4B33c761200a505d210bC7627f95",
+    "vaultAddress": "0x78B8848d05Aa7ee1cc77536639B224741CE4241E",
+    "platform": "sushi",
+    "poolName": "AVAX/WETH"
+  },
+  {
+    "token0Name": "AVAX",
     "token1Name": "WMATIC",
     "token0": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
     "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
@@ -2295,19 +2307,6 @@
     "vaultAddress": "0x2C163328f7eA989D803D5449A17c36921e37f89D",
     "platform": "tel",
     "poolName": "TEL/WETH"
-  },
-  {
-    "token0Name": "TRICRYPTO",
-    "token1Name": "TRICRYPTO",
-    "token0": "0xbece5d20A8a104c54183CC316C8286E3F00ffC71",
-    "token1": "0xbece5d20A8a104c54183CC316C8286E3F00ffC71",
-    "lpAddress": "0xbece5d20A8a104c54183CC316C8286E3F00ffC71",
-    "stakingAddress": "0x9bd996Db02b3f271c6533235D452a56bc2Cd195a",
-    "strategyAddress": "0x67590250C90600640C282aAdf6775085741279F3",
-    "vaultAddress": "0xe5c26433AE0d887d9aBB1BFaAEeA7779b5cD0294",
-    "singleAsset": "true",
-    "platform": "curve",
-    "poolName": "atricrypto2"
   },
   {
     "token0Name": "TRICRYPTO",
