@@ -456,6 +456,30 @@
     "poolName": "CRYSTL/WMATIC"
   },
   {
+    "token0Name": "CZDIAMOND",
+    "token1Name": "USDC",
+    "token0": "0x6664C64C8582e62dA861Fcac33a627b0f92fF0F8",
+    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "lpAddress": "0xd4B829DB6E1Ea8E85e9f8e55185e0a52474a575A",
+    "stakingAddress": "0x767580F1B2aF12b7267cE33Ba2678addA7388403",
+    "strategyAddress": "0x697C7a3D8D9546748F0Ca1F11C86495828cE65b7",
+    "vaultAddress": "0x76488E167EF8f23FEA03134e3f873E2649213365",
+    "platform": "darkside",
+    "poolName": "CZDIAMOND/USDC"
+  },
+  {
+    "token0Name": "CZDIAMOND",
+    "token1Name": "WMATIC",
+    "token0": "0x6664C64C8582e62dA861Fcac33a627b0f92fF0F8",
+    "token1": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "lpAddress": "0x9E15322796D96dbFCF03BDb535f83E070FA5De4e",
+    "stakingAddress": "0x767580F1B2aF12b7267cE33Ba2678addA7388403",
+    "strategyAddress": "0x31Ef7347cA73D354051f079142b2f17972d41c58",
+    "vaultAddress": "0xBA8879C5CDB1CebBD81e7043D6d557a319F6FE62",
+    "platform": "darkside",
+    "poolName": "CZDIAMOND/WMATIC"
+  },
+  {
     "token0Name": "ELK",
     "token1Name": "DAI",
     "token0": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
@@ -622,6 +646,30 @@
     "vaultAddress": "0xA64771e2480F88dcC6011586Eb5908A5713CC73E",
     "platform": "ape",
     "poolName": "DAI/WMATIC"
+  },
+  {
+    "token0Name": "DARKCOIN",
+    "token1Name": "USDC",
+    "token0": "0x1942b8262a0683B54f4f91D0c08dDD92ed6E8FE6",
+    "token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+    "lpAddress": "0xC7d21537454ed4462C31bbf5A41DCf495549Aee2",
+    "stakingAddress": "0x767580F1B2aF12b7267cE33Ba2678addA7388403",
+    "strategyAddress": "0xFd44a3140C213468140b8BCe0135481EE2611c34",
+    "vaultAddress": "0x144F2DEc740Bd7C8D8DB8cf56abf7b4f105D33a0",
+    "platform": "darkside",
+    "poolName": "DARKCOIN/USDC"
+  },
+  {
+    "token0Name": "DARKCOIN",
+    "token1Name": "WMATIC",
+    "token0": "0x1942b8262a0683B54f4f91D0c08dDD92ed6E8FE6",
+    "token1": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "lpAddress": "0x163c45fB7F84848786a16D8cdb396f78787d6D99",
+    "stakingAddress": "0x767580F1B2aF12b7267cE33Ba2678addA7388403",
+    "strategyAddress": "0x619b08FEfa6725C9E5D1883BFD59e8c956D5a555",
+    "vaultAddress": "0x564f8336e73d4e86bD04d8AdDa9746e2e034dEDB",
+    "platform": "darkside",
+    "poolName": "DARKCOIN/WMATIC"
   },
   {
     "token0Name": "DEFI5",
@@ -2093,6 +2141,18 @@
     "poolName": "QI/WETH"
   },
   {
+    "token0Name": "QI",
+    "token1Name": "WMATIC",
+    "token0": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+    "token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "lpAddress": "0x9A8b2601760814019B7E6eE0052E25f1C623D1E6",
+    "stakingAddress": "0x574Fe4E8120C4Da1741b5Fd45584de7A5b521F0F",
+    "strategyAddress": "0xfAf0B4b72cEDd1D80ac969Bf20f1C23730E5e5B1",
+    "vaultAddress": "0xF4F21e9ED672896947A56AE0851674F40B0Aef18",
+    "platform": "mai",
+    "poolName": "QI/WMATIC"
+  },
+  {
     "token0Name": "RELAY",
     "token1Name": "QUICK",
     "token0": "0x904371845Bc56dCbBcf0225ef84a669b2fD6bd0d",
@@ -3235,6 +3295,18 @@
     "vaultAddress": "0xbB03eAECd46dc433C87cBc4fb218ebf71d467d9c",
     "platform": "wault",
     "poolName": "WEXPOLY/WMATIC"
+  },
+  {
+    "token0Name": "WEXPOLY",
+    "token1Name": "WUSD",
+    "token0": "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB",
+    "token1": "0xb8ab048D6744a276b2772dC81e406a4b769A5c3D",
+    "lpAddress": "0x3b537f1B6b4f2119F0B088e4937f589e408228f1",
+    "stakingAddress": "0xC8Bd86E5a132Ac0bf10134e270De06A8Ba317BFe",
+    "strategyAddress": "0x955f13B63cc32740C120a7Ac9Aa1ac4292B690b8",
+    "vaultAddress": "0x00F8ABc2e54e2880f24e9008818379E2aC4A6E9b",
+    "platform": "wault",
+    "poolName": "WEXPOLY/WUSD"
   },
   {
     "token0Name": "mOCEAN",
