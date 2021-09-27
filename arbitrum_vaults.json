@@ -186,6 +186,18 @@
 		"token1Name": "USDC",
 		"token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
 		"token1": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+		"lpAddress": "0x48422A133501F0a3A542905F31167c198129A828",
+		"stakingAddress": "0xE3C10989dDc5Df5B1b9c0E6229c2E4e0862fDe3e",
+		"strategyAddress": "0x598DDB1beCc52E3b70f38d11a385427f35eF4a2F",
+		"vaultAddress": "0xb8A3f04AE2F51ada0A0d9221d1Cf7Fdf203D3226",
+		"platform": "dodo",
+		"poolName": "USDC D"
+	},
+	{
+		"token0Name": "WETH",
+		"token1Name": "USDC",
+		"token0": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+		"token1": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
 		"lpAddress": "0x905dfCD5649217c42684f23958568e533C711Aa3",
 		"stakingAddress": "0xF4d73326C13a4Fc5FD7A064217e12780e9Bd62c3",
 		"strategyAddress": "0x60C590d6bcF8e2d9893bf15719d55371804846ab",
