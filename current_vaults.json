@@ -1035,18 +1035,6 @@
 	{
 		"token0Name": "WBTC",
 		"token1Name": "ETH",
-		"token0": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
-		"token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
-		"lpAddress": "0x4282C6b1c21CD1A0C363a70e4292f8Bf4D7c898c",
-		"stakingAddress": "0xd6161AdBf80602f0ecf74F92ce0271556ddbf98B",
-		"strategyAddress": "0x362acECE14fc7B834c396ee1Ab7a39A84613864B",
-		"vaultAddress": "0xE519980e4D898c9e3C9e0AE8f936F8807684681F",
-		"platform": "cometh",
-		"poolName": "ETH/WBTC"
-	},
-	{
-		"token0Name": "WBTC",
-		"token1Name": "ETH",
 		"token0": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
 		"token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
 		"lpAddress": "0x30AdBCAb9Fbb4436109fcf3058D1Af27E6E33F3F",
@@ -1054,6 +1042,18 @@
 		"strategyAddress": "0x3Aa3506B027DFB1C99D13C05d2A932e7995ca8B7",
 		"vaultAddress": "0x442CE81756dd15581dAE49502033603af6C7C9C3",
 		"platform": "wault",
+		"poolName": "ETH/WBTC"
+	},
+	{
+		"token0Name": "WBTC",
+		"token1Name": "ETH",
+		"token0": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+		"token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+		"lpAddress": "0x4282C6b1c21CD1A0C363a70e4292f8Bf4D7c898c",
+		"stakingAddress": "0xd6161AdBf80602f0ecf74F92ce0271556ddbf98B",
+		"strategyAddress": "0x362acECE14fc7B834c396ee1Ab7a39A84613864B",
+		"vaultAddress": "0xE519980e4D898c9e3C9e0AE8f936F8807684681F",
+		"platform": "cometh",
 		"poolName": "ETH/WBTC"
 	},
 	{
@@ -2074,9 +2074,9 @@
 		"token0": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
 		"token1": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
 		"lpAddress": "0xE88e24F49338f974B528AcE10350Ac4576c5c8A1",
-		"stakingAddress": "0x51CfB74628C7484c9128d979650dA2512947e532",
-		"strategyAddress": "0xd31Fec99DCfebd14ea61712FaE308BB93a9D3A58",
-		"vaultAddress": "0x6DF4D1B25798F3Ea618fF57e30d3C515f189E279",
+		"stakingAddress": "0xf8bdc7bc282847eeb5d4291ec79172b48526e9de",
+		"strategyAddress": "0x97D70dEDb9E6C2016B09371B57EAc76b75e75bd7",
+		"vaultAddress": "0x56Ef2570F817e8eA1ac267af2869Ff21D374D4cf",
 		"platform": "tel",
 		"poolName": "QUICK/TEL"
 	},
@@ -2161,6 +2161,18 @@
 		"stakingAddress": "0xdd8758ebb792c9aed3517e9e28ce03c090564da0",
 		"strategyAddress": "0x845e351E0A93ffAD4aadCbFE554F9DB46a60D032",
 		"vaultAddress": "0x0c800EC571D1550ed0bb27fCb3976D20dd05B588",
+		"platform": "quick",
+		"poolName": "QUICK/WMATIC"
+	},
+	{
+		"token0Name": "QUICK",
+		"token1Name": "WMATIC",
+		"token0": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+		"token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+		"lpAddress": "0x019ba0325f1988213d448b3472fa1cf8d07618d7",
+		"stakingAddress": "0xd26E16f5a9dfb9Fe32dB7F6386402B8AAe1a5dd7",
+		"strategyAddress": "0x3e1995dA30A08767c879cCBa3c3697CBB4b43CEA",
+		"vaultAddress": "0x1cC3b45B0e21B633d683fCc306486FcD5257AAc6",
 		"platform": "quick",
 		"poolName": "QUICK/WMATIC"
 	},
@@ -2398,9 +2410,9 @@
 		"token0": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
 		"token1": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
 		"lpAddress": "0xfc2fc983a411c4b1e238f7eb949308cf0218c750",
-		"stakingAddress": "0x09315f2577c2bccee0119790f706eb70dd67c2df",
-		"strategyAddress": "0x85cCd984c566Bda5C69f80bA5E29A7F5D3FD30b2",
-		"vaultAddress": "0x2C163328f7eA989D803D5449A17c36921e37f89D",
+		"stakingAddress": "0xEda437364DCF8AB00f07b49bCc213CDf356b3962",
+		"strategyAddress": "0x48aeEd2d92D634ef3905F1f7C15613B035E8DF1b",
+		"vaultAddress": "0xeEBf742c27e3D01C736d21C30c88Cc8Cb792A990",
 		"platform": "tel",
 		"poolName": "TEL/WETH"
 	},
@@ -2602,18 +2614,6 @@
 		"token1Name": "USDC",
 		"token0": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
 		"token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-		"lpAddress": "0x1Edb2D8f791D2a51D56979bf3A25673D6E783232",
-		"stakingAddress": "0x1c30Cfe08506BA215c02bc2723C6D310671BAb62",
-		"strategyAddress": "0xFDa8715473d8324Ae53b091b47a95F0f34eA3be1",
-		"vaultAddress": "0x45f9fEbda01894a627cD58F69308C1200f326Df2",
-		"platform": "cometh",
-		"poolName": "USDC/WETH"
-	},
-	{
-		"token0Name": "WETH",
-		"token1Name": "USDC",
-		"token0": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
-		"token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
 		"lpAddress": "0x93054D6e998294097e9676D8AF1c26DB28C40652",
 		"stakingAddress": "0xca2DeAc853225f5a4dfC809Ae0B7c6e39104fCe5",
 		"strategyAddress": "0x984902b8168614CF292fC5d7aC89b691861543cA",
@@ -2667,6 +2667,18 @@
 		"strategyAddress": "0x61a1Cb654B2135d7E4E1EEd432E096885b51d0AA",
 		"vaultAddress": "0xBD1062f727A23d3934E3Dd7a849c74128fd65267",
 		"platform": "sushi",
+		"poolName": "USDC/WETH"
+	},
+	{
+		"token0Name": "WETH",
+		"token1Name": "USDC",
+		"token0": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+		"token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+		"lpAddress": "0x1Edb2D8f791D2a51D56979bf3A25673D6E783232",
+		"stakingAddress": "0x1c30Cfe08506BA215c02bc2723C6D310671BAb62",
+		"strategyAddress": "0xFDa8715473d8324Ae53b091b47a95F0f34eA3be1",
+		"vaultAddress": "0x45f9fEbda01894a627cD58F69308C1200f326Df2",
+		"platform": "cometh",
 		"poolName": "USDC/WETH"
 	},
 	{
@@ -2750,6 +2762,18 @@
 		"stakingAddress": "0x9854e01432b348194e025df773e6412892cbc900",
 		"strategyAddress": "0x5aCa6eF76Ae0086B624297a2701684A4d33ad352",
 		"vaultAddress": "0x6e9B311e62FD414D56b700FbAc60CbAfa2F63c45",
+		"platform": "quick",
+		"poolName": "USDC/WMATIC"
+	},
+	{
+		"token0Name": "WMATIC",
+		"token1Name": "USDC",
+		"token0": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+		"token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+		"lpAddress": "0x6e7a5fafcec6bb1e78bae2a1f0b612012bf14827",
+		"stakingAddress": "0x14977e7E263FF79c4c3159F497D9551fbE769625",
+		"strategyAddress": "0xFD41C99f2dA778B338528eF23A30F7C6cb89034a",
+		"vaultAddress": "0x99340C1D9627Dab2d657bFa59762D9DB01112C6e",
 		"platform": "quick",
 		"poolName": "USDC/WMATIC"
 	},
@@ -2934,6 +2958,18 @@
 		"poolName": "USDT/WMATIC"
 	},
 	{
+		"token0Name": "WMATIC",
+		"token1Name": "USDT",
+		"token0": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+		"token1": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+		"lpAddress": "0x604229c960e5cacf2aaeac8be68ac07ba9df81c3",
+		"stakingAddress": "0xc0eb5d1316b835F4B584B59f922d9c87cA5053E5",
+		"strategyAddress": "0x21aF04CaBc23253B40611D31A74fC238aaC76Cde",
+		"vaultAddress": "0x24E76D0fCab19e689606a7c6019f3281dEeA3672",
+		"platform": "quick",
+		"poolName": "USDT/WMATIC"
+	},
+	{
 		"token0Name": "WAULTX",
 		"token1Name": "WMATIC",
 		"token0": "0x3053ad3b31600074e9a90440770f78d5e8fc5a54",
@@ -3098,6 +3134,18 @@
 		"stakingAddress": "0x4b678ca360c5f53a2b0590e53079140f302a9dcd",
 		"strategyAddress": "0x06ef15942F97Edc6C345210560e324401EA3fF5f",
 		"vaultAddress": "0x8dDd3Ea3bA51C50cD0f78C177f6A36b919a6Cef9",
+		"platform": "quick",
+		"poolName": "WETH/WMATIC"
+	},
+	{
+		"token0Name": "WETH",
+		"token1Name": "WMATIC",
+		"token0": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+		"token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+		"lpAddress": "0xadbf1854e5883eb8aa7baf50705338739e558e5b",
+		"stakingAddress": "0x3c1f53fed2238176419F8f897aEc8791C499e3c8",
+		"strategyAddress": "0x6d42df65926E49e2a24c90d5400c86c3Ea3b0dbc",
+		"vaultAddress": "0xB573061fAa98e2Efa39D2eA98381eEaB442DCf0D",
 		"platform": "quick",
 		"poolName": "WETH/WMATIC"
 	},
