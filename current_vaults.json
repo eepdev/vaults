@@ -533,10 +533,10 @@
 		"token0": "0xe5417af564e4bfda1c483642db72007871397896",
 		"token1": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
 		"lpAddress": "0x6e53cb6942e518376e9e763554db1a45ddcd25c4",
-		"stakingAddress": "0x33025b177a35f6275b78f9c25684273fc24b4e43",
-		"strategyAddress": "0x2f424688f347140FA886032B1FeF8c3064457a5F",
-		"vaultAddress": "0xEd4938c04F1ac3b8bba9c7104105E3E5fbd42516",
-		"platform": "quick",
+		"stakingAddress": "0x151757c2E830C467B28Fe6C09c3174b6c76aA0c5",
+		"strategyAddress": "0x5FAbf8EE2EC98c2Ee608Dd3b851a5Ed7993E924A",
+		"vaultAddress": "0x40dCaE9f309134BB48a9ac7AF543A4536B36d8BA",
+		"platform": "gains",
 		"poolName": "DAI/GNS"
 	},
 	{
@@ -754,6 +754,30 @@
 		"vaultAddress": "0x990cbe78f3389550331fCa74155734CAbFC0633f",
 		"platform": "dfyn",
 		"poolName": "DFYN/LUNA"
+	},
+	{
+		"token0Name": "PBR",
+		"token1Name": "DFYN",
+		"token0": "0x0d6ae2a429df13e44a07cd2969e085e4833f64a0",
+		"token1": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+		"lpAddress": "0x7fee8f1222a60336238d2898a856dfe2331412bc",
+		"stakingAddress": "0x5B2CE8dDE5B99D974EC557B53e864f9EBb80FA66",
+		"strategyAddress": "0x00149973007f644872c1730efa8922d51A028d65",
+		"vaultAddress": "0xc1825df954f17056b9Ab8720b331523ae00fC946",
+		"platform": "dfyn",
+		"poolName": "DFYN/PBR"
+	},
+	{
+		"token0Name": "ROUTE",
+		"token1Name": "DFYN",
+		"token0": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+		"token1": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+		"lpAddress": "0xB0dc320ea9eea823a150763AbB4A7bA8286Cd08B",
+		"stakingAddress": "0xa0d35c593235bA61151F0BAD89A4fB70AA5dad9f",
+		"strategyAddress": "0xa19471A18b45c565C6025cf1140295f452d5Eb46",
+		"vaultAddress": "0xE1750a3d2cf72F049C5ea3D0398C0151F64314A9",
+		"platform": "dfyn",
+		"poolName": "DFYN/ROUTE"
 	},
 	{
 		"token1Name": "DFYN",
@@ -2716,6 +2740,18 @@
 		"vaultAddress": "0x4E43cd3A9877FA164775124bBE68e2973fafaA0d",
 		"platform": "quick",
 		"poolName": "USDC/USDT"
+	},
+	{
+		"token0Name": "USDT",
+		"token1Name": "USDC",
+		"token0": "0x8201532917e55bA29674Ef4E88FFe0b775f1BaE8",
+		"token1": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+		"lpAddress": "0x398a2D1b343d09261dF990c2Fcc97B5d5d62c1B5",
+		"stakingAddress": "0x7875Af1a6878bdA1C129a4e2356A3fD040418Be5",
+		"strategyAddress": "0xdE67518c47CfA9A7A01640381D55Fe8E4A01e3b4",
+		"vaultAddress": "0x76744e7665cEA1E37643F0F0baCdFc98202Fd357",
+		"platform": "synapse",
+		"poolName": "nUSD"
 	},
 	{
 		"token0Name": "UST",
