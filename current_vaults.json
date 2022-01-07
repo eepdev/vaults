@@ -3150,19 +3150,6 @@
 		"poolName": "WETH/WOO"
 	},
 	{
-		"token0Name": "WMATIC",
-		"token1Name": "WMATIC",
-		"token0": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-		"token1": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-		"lpAddress": "0xbc4FB4ED825C65fF48163AF7E59d49e32edb5269",
-		"stakingAddress": "0xbc4FB4ED825C65fF48163AF7E59d49e32edb5269",
-		"strategyAddress": "0x6d903fc72Ef8DD552192f519680438acCFE1B9Df",
-		"vaultAddress": "0x1F6A732722693d29C8279771505A8e32fbb28b49",
-		"singleAsset": true,
-		"platform": "hop",
-		"poolName": "WMATIC/HMATIC"
-	},
-	{
 		"token0Name": "WONE",
 		"token1Name": "WMATIC",
 		"token0": "0x80c0cbdb8d0b190238795d376f0bd57fd40525f2",
