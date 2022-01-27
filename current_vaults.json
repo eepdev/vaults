@@ -408,18 +408,6 @@
 		"poolName": "CRV/WETH"
 	},
 	{
-		"token0Name": "CRYSTL",
-		"token1Name": "WMATIC",
-		"token0": "0x76bF0C28e604CC3fE9967c83b3C3F31c213cfE64",
-		"token1": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-		"lpAddress": "0xB8e54c9Ea1616beEBe11505a419DD8dF1000E02a",
-		"stakingAddress": "0xeBCC84D2A73f0c9E23066089C6C24F4629Ef1e6d",
-		"strategyAddress": "0x67f4A0BB3dbff781a2bb1Cc1B7DC000081724896",
-		"vaultAddress": "0x7920130df165e0bAb745E9eB1491039a3a333fc3",
-		"platform": "polycrystal",
-		"poolName": "CRYSTL/WMATIC"
-	},
-	{
 		"token0Name": "CZDIAMOND",
 		"token1Name": "USDC",
 		"token0": "0x6664C64C8582e62dA861Fcac33a627b0f92fF0F8",
@@ -2347,6 +2335,18 @@
 	{
 		"token0Name": "SAND",
 		"token1Name": "WMATIC",
+		"token0": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+		"token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+		"lpAddress": "0x369582d2010B6eD950B571F4101e3bB9b554876F",
+		"stakingAddress": "0x4AB071C42C28c4858C4BAc171F06b13586b20F30",
+		"strategyAddress": "0xc35F789c153D69107Ae5057A1F6362b3b6C44422",
+		"vaultAddress": "0x4A02db9Cdf3FE7DBb0C353DEe7796809484b1d96",
+		"platform": "sandbox",
+		"poolName": "SAND/WMATIC"
+	},
+	{
+		"token0Name": "SAND",
+		"token1Name": "WMATIC",
 		"token0": "0xbbba073c31bf03b8acf7c28ef0738decf3695683",
 		"token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
 		"lpAddress": "0x369582d2010b6ed950b571f4101e3bb9b554876f",
@@ -2439,18 +2439,6 @@
 		"vaultAddress": "0x44c3bE1b580FfC4d31CB365392464c0e304F3E0f",
 		"platform": "dino",
 		"poolName": "SX/WETH"
-	},
-	{
-		"token0Name": "SX",
-		"token1Name": "WMATIC",
-		"token0": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
-		"token1": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-		"lpAddress": "0xf90331cb67f9ae85739f5aedfa93dec68b7ce32e",
-		"stakingAddress": "0xeBCC84D2A73f0c9E23066089C6C24F4629Ef1e6d",
-		"strategyAddress": "0x6D26B0bE697b722987A3D353c6Bad6650b075469",
-		"vaultAddress": "0xe98991195a467a37f3233F241304c63f279d39Dc",
-		"platform": "polycrystal",
-		"poolName": "SX/WMATIC"
 	},
 	{
 		"token0Name": "TCP",
@@ -2847,6 +2835,18 @@
 		"strategyAddress": "0xFD41C99f2dA778B338528eF23A30F7C6cb89034a",
 		"vaultAddress": "0x99340C1D9627Dab2d657bFa59762D9DB01112C6e",
 		"platform": "quick",
+		"poolName": "USDC/WMATIC"
+	},
+	{
+		"token0Name": "WMATIC",
+		"token1Name": "USDC",
+		"token0": "0xFac5C7819fdE19d006244E462Db02ed7Fe346E71",
+		"token1": "0xb828E46a504d52d149464AEE052dC885d8a942a0",
+		"lpAddress": "0xa172bbbfe57fa8e7326bc5598be700c5a16d72c7",
+		"stakingAddress": "0xA27cBEb78F716cef989E4C3F47761fdF91954d71",
+		"strategyAddress": "0x6DE5e20DA47D0b4C2196B865964C9183ceDe6c9E",
+		"vaultAddress": "0xe938A5D0fEbDbfEbf2bD11B8d012C9e055D4AB92",
+		"platform": "test",
 		"poolName": "USDC/WMATIC"
 	},
 	{
