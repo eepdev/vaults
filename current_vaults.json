@@ -13,18 +13,6 @@
 	},
 	{
 		"token0Name": "AAVE",
-		"token1Name": "DFYN",
-		"token0": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0xcb1e67ccf171e284e1cec0f344b6593319c77ebc",
-		"stakingAddress": "0x22d34d4e8a469a3596c4d0c80cf738e34830b723",
-		"strategyAddress": "0xf5bBbc6F723a3c3a3AB7F90056FEfAAD76B9bC1d",
-		"vaultAddress": "0xa6b487B997C7BEb8b0E0663422B14796DEb2f377",
-		"platform": "dfyn",
-		"poolName": "AAVE/DFYN"
-	},
-	{
-		"token0Name": "AAVE",
 		"token1Name": "WETH",
 		"token0": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
 		"token1": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
@@ -348,18 +336,6 @@
 		"poolName": "CGG/WMATIC"
 	},
 	{
-		"token0Name": "CIRUS",
-		"token1Name": "DFYN",
-		"token0": "0x2a82437475a60bebd53e33997636fade77604fc2",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0x5a37bfbba52235f61af2f4b74839c9288285cfc3",
-		"stakingAddress": "0x65de34ed19f9ba1d42cf9c326b739e93da92a62b",
-		"strategyAddress": "0x54c9b0d0cc468553a3De9e9f6548F3DE6E8BE2D4",
-		"vaultAddress": "0xc797D6391cf18d051370dF375EDF57DAeaf9dB96",
-		"platform": "dfyn",
-		"poolName": "CIRUS/DFYN"
-	},
-	{
 		"token0Name": "CNTR",
 		"token1Name": "QUICK",
 		"token0": "0xdae89da41a96956e9e70320ac9c0dd077070d3a5",
@@ -370,18 +346,6 @@
 		"vaultAddress": "0x12098C8E5BED138016b632c917abda5C9d1f7E39",
 		"platform": "quick",
 		"poolName": "CNTR/QUICK"
-	},
-	{
-		"token0Name": "CRV",
-		"token1Name": "DFYN",
-		"token0": "0x172370d5cd63279efa6d502dab29171933a610af",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0x4ea3e2cfc39fa51df85ebcfa366d7f0eed448a1c",
-		"stakingAddress": "0x73667b79c083fbd7d86bdbfc0a83373590a4770b",
-		"strategyAddress": "0x74129d2111E790d5d28445b3E984f59C252EEF65",
-		"vaultAddress": "0xe840B59f9d5f2a76e816A57B1A663a13D4122F03",
-		"platform": "dfyn",
-		"poolName": "CRV/DFYN"
 	},
 	{
 		"token0Name": "CRV",
@@ -672,112 +636,16 @@
 		"poolName": "DES/QUICK"
 	},
 	{
-		"token0Name": "FRM",
-		"token1Name": "DFYN",
-		"token0": "0xd99bafe5031cc8b345cb2e8c80135991f12d7130",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0x0c77b6682b6ffffe9599b41e39eba1c1bcf923d8",
-		"stakingAddress": "0xabfab571cd23c1134d0b4a663691b93f35ce4db0",
-		"strategyAddress": "0x169f1c252293E35Dccd490c711EA69444227eFac",
-		"vaultAddress": "0x2227A66bad45f5958f617fc38eA7ADe2d95f6Ec2",
-		"platform": "dfyn",
-		"poolName": "DFYN/FRM"
-	},
-	{
-		"token0Name": "GAJ",
-		"token1Name": "DFYN",
-		"token0": "0xf4b0903774532aee5ee567c02aab681a81539e92",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0x3ddabae496c3e3cd0ebf6e53d10360c0969b71bd",
-		"stakingAddress": "0x884480979471aab4aa7266b0eb1c4bfc3e75403e",
-		"strategyAddress": "0x31aF7503BEE1852DD5BaA1D44A1B8288250e7698",
-		"vaultAddress": "0x905Eb116DEbdc206192CD90759818BBC15b9Cac4",
-		"platform": "dfyn",
-		"poolName": "DFYN/GAJ"
-	},
-	{
-		"token0Name": "LINK",
-		"token1Name": "DFYN",
-		"token0": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0x2f653881b6865a41cbf2d7ffb4af1a959ba057d3",
-		"stakingAddress": "0x9573e3a8a68b4d74fdc0857473e7f72100e3b9e0",
-		"strategyAddress": "0x113Ef28D17aD5a7d31e3b3e69e6826F9DB0f53B7",
-		"vaultAddress": "0xcB1ea9cfd907e0d3644133acE2e769f59B10219b",
-		"platform": "dfyn",
-		"poolName": "DFYN/LINK"
-	},
-	{
-		"token0Name": "LUNA",
-		"token1Name": "DFYN",
-		"token0": "0x24834bbec7e39ef42f4a75eaf8e5b6486d3f0e57",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0x7e2ce68e76e94cb4c35b3ab66d03e66efd7641a7",
-		"stakingAddress": "0x2e78bbcbaca1a2f1be8cb3d66452173f3ed58ce5",
-		"strategyAddress": "0xDa91DCf287773fC8335F64B5d61Dc1cC23D335e8",
-		"vaultAddress": "0x073552a3738848d918aA118adc2474312CF9580D",
-		"platform": "dfyn",
-		"poolName": "DFYN/LUNA"
-	},
-	{
-		"token0Name": "MANA",
-		"token1Name": "DFYN",
-		"token0": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0x43b978c1755a397fb20d1690e9ee57a851fd9ea8",
-		"stakingAddress": "0xf7f083b6226cfef2f9bc349b46254088d1b9adbe",
-		"strategyAddress": "0xa11EAdE490d8cD2AC790a26E73a47Da4a0E396F8",
-		"vaultAddress": "0xe46901BE9E9a76176a517A6bcB45003C504EB1a4",
-		"platform": "dfyn",
-		"poolName": "DFYN/MANA"
-	},
-	{
-		"token0Name": "MATRIX",
-		"token1Name": "DFYN",
-		"token0": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0x7c1ad16996907c854dbcb5b145ceea06bff120c3",
-		"stakingAddress": "0x641c94fce99715f50260c3f0b6abd97a3577f5b3",
-		"strategyAddress": "0x490BD3b96180b8668e339eEe64cd7e2072330a70",
-		"vaultAddress": "0x6674781268951cB90d3Bc0C8b46350D4f952AC76",
-		"platform": "dfyn",
-		"poolName": "DFYN/MATRIX"
-	},
-	{
-		"token0Name": "NEXO",
-		"token1Name": "DFYN",
-		"token0": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0x789e3d9aa77c1ebb882b953c7481f89f416230da",
-		"stakingAddress": "0x2ae6a2603a400733a7dc9b920e6ed4b3accaef71",
-		"strategyAddress": "0xc961d115141331eF57e75bdD0f06FE8673ac342B",
-		"vaultAddress": "0xBb20151B01A94C941700Cc69DC51F6e5D0340580",
-		"platform": "dfyn",
-		"poolName": "DFYN/NEXO"
-	},
-	{
 		"token0Name": "ROUTE",
 		"token1Name": "DFYN",
 		"token0": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
 		"token1": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
 		"lpAddress": "0xB0dc320ea9eea823a150763AbB4A7bA8286Cd08B",
-		"stakingAddress": "0x4b7ce241b6e58cef602f4ee588b8bd40f4e79066",
-		"strategyAddress": "0x411d74B8A1d20D031bfe1A3fA73C86695Aa8275b",
-		"vaultAddress": "0xFB1A12bE2E6FaE9f7e3ED55BBb544f3cf42Ec467",
+		"stakingAddress": "0xb5F4d160F2D5baB04312F6817D5265F5cE75822C",
+		"strategyAddress": "0x1c89c1551170A01F118dDF5E6C5a8c9Fc897E8F4",
+		"vaultAddress": "0x8Aa18959Ee6FEB4104a3cb7B029Fe4823A9d4708",
 		"platform": "dfyn",
 		"poolName": "DFYN/ROUTE"
-	},
-	{
-		"token0Name": "UNI",
-		"token1Name": "DFYN",
-		"token0": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
-		"token1": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-		"lpAddress": "0xe8c9bb82443c55d1c0bdd12f7e9cbec5974ecf43",
-		"stakingAddress": "0x0707ed36534856faeb500354abfc5ecb5da99e8d",
-		"strategyAddress": "0xdaB653292e66aC8da7795769386485c84a2Fe350",
-		"vaultAddress": "0xC37d2dCf013133Ab714b7ee801983D0AfdDe1eea",
-		"platform": "dfyn",
-		"poolName": "DFYN/UNI"
 	},
 	{
 		"token0Name": "DFYN",
@@ -790,18 +658,6 @@
 		"vaultAddress": "0x148453b87Db7b303Fa9dbf161A0E558Fd0E2eB22",
 		"platform": "dino",
 		"poolName": "DFYN/WETH"
-	},
-	{
-		"token0Name": "DFYN",
-		"token1Name": "WMATIC",
-		"token0": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
-		"token1": "0x4c28f48448720e9000907BC2611F73022fdcE1fA",
-		"lpAddress": "0x740d668883b0fAEf5eeF7E84BE28C7152D6f609D",
-		"stakingAddress": "0x432c89dab7df8917a233849aed9240ec40336f52",
-		"strategyAddress": "0x2cAD2e18665dc3B3Df0241718bf1943DA73b2c3c",
-		"vaultAddress": "0xE17D91504522D315f3a6daeA11CE5819783E63c7",
-		"platform": "dfyn",
-		"poolName": "DFYN/WMATIC"
 	},
 	{
 		"token0Name": "DG",
@@ -1887,6 +1743,18 @@
 		"vaultAddress": "0x3234E65EC591a3975D353c74Af781F2f3b6FfDFb",
 		"platform": "cafe",
 		"poolName": "PBREW/WMATIC"
+	},
+	{
+		"token0Name": "PBTC",
+		"token1Name": "WBTC",
+		"token0": "0xd7ecf95Cf7eF5256990BeAf4ac895cD9e64cb947",
+		"token1": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+		"lpAddress": "0x0850f9bf21CDba7D2817fca8E5F9D3B96FEfF3dD",
+		"stakingAddress": "0x4bBaE7Ab87D2604dCA240c8eC00Be6dcD35295D4",
+		"strategyAddress": "0xdea30d2B8509F3D6Bf8c30F26bcf5b56eAa7043b",
+		"vaultAddress": "0xd3C81BEc035490c778594bbF583736518AF68314",
+		"platform": "quick",
+		"poolName": "PBTC/WBTC"
 	},
 	{
 		"token0Name": "PECO",
