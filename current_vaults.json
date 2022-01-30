@@ -660,6 +660,18 @@
 		"poolName": "DFYN/WETH"
 	},
 	{
+		"token0Name": "DFYN",
+		"token1Name": "WMATIC",
+		"token0": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+		"token1": "0x4c28f48448720e9000907BC2611F73022fdcE1fA",
+		"lpAddress": "0x740d668883b0fAEf5eeF7E84BE28C7152D6f609D",
+		"stakingAddress": "0x5E35F73EeE33a65B9b0f6A0d2104995890e36d06",
+		"strategyAddress": "0x198305c715D6fc6f69923A2EC83Fbf59a5A6C65F",
+		"vaultAddress": "0x7e5596A5931087A16f4122F9aEbeD9B3eE4281AB",
+		"platform": "dfyn",
+		"poolName": "DFYN/WMATIC"
+	},
+	{
 		"token0Name": "DG",
 		"token1Name": "USDC",
 		"token0": "0x2a93172c8dccbfbc60a39d56183b7279a2f647b4",
