@@ -110,18 +110,6 @@
 	{
 		"token0Name": "CADDY",
 		"token1Name": "WCRO",
-		"token0": "0x09ad12552ec45f82bE90B38dFE7b06332A680864",
-		"token1": "0xca2503482e5D6D762b524978f400f03E38d5F962",
-		"lpAddress": "0x332937463df26f46a1a715a41205765774beef80",
-		"stakingAddress": "0x3790F3A1cf8A478042Ec112A70881Dcfa9c7fd2a",
-		"strategyAddress": "0x06F7A78438F4B96eF0bC86BB66cE55B9abbd90A3",
-		"vaultAddress": "0x3a9645ee664DCE6529Af678aaB4fE3AD9d68323f",
-		"platform": "chronoswap",
-		"poolName": "CADDY/WCRO"
-	},
-	{
-		"token0Name": "CADDY",
-		"token1Name": "WCRO",
 		"token0": "0x09ad12552ec45f82be90b38dfe7b06332a680864",
 		"token1": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
 		"lpAddress": "0x2a008ef8ec3ef6b03eff10811054e989aad1cf71",
@@ -166,30 +154,6 @@
 		"vaultAddress": "0xE29822d163B31004D1cE8359588E7F15cB90F469",
 		"platform": "cyborg",
 		"poolName": "CBO/WCRO"
-	},
-	{
-		"token0Name": "CNO",
-		"token1Name": "USDC",
-		"token0": "0x322e21dcAcE43d319646756656b29976291d7C76",
-		"token1": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
-		"lpAddress": "0x50aF1c38AF0481C9d06F72a045274201781773ae",
-		"stakingAddress": "0x3790F3A1cf8A478042Ec112A70881Dcfa9c7fd2a",
-		"strategyAddress": "0x5B0c26531fE4D16852A11961F4Ec8cFcE65609e0",
-		"vaultAddress": "0x12cb939d190F045E5D1A3AECA2861bbe66A012F4",
-		"platform": "chronoswap",
-		"poolName": "CNO/USDC"
-	},
-	{
-		"token0Name": "CNO",
-		"token1Name": "WCRO",
-		"token0": "0x322e21dcAcE43d319646756656b29976291d7C76",
-		"token1": "0xca2503482e5D6D762b524978f400f03E38d5F962",
-		"lpAddress": "0x4BbCE14d69F9fEA118992f1944c084753f1B0bf9",
-		"stakingAddress": "0x3790F3A1cf8A478042Ec112A70881Dcfa9c7fd2a",
-		"strategyAddress": "0x709B7A2163126e83c32Bf6725707911f1E4e8379",
-		"vaultAddress": "0x598BB9bd28deA7ceB437ee4C19367E1236CBCa71",
-		"platform": "chronoswap",
-		"poolName": "CNO/WCRO"
 	},
 	{
 		"token0Name": "CNO",
@@ -488,6 +452,18 @@
 		"stakingAddress": "0xF8A25520f98B4E2674b295Fd3026BB7333B265fD",
 		"strategyAddress": "0x4b680Cd701FD73e2e2Dc32880f9c394fd0505351",
 		"vaultAddress": "0xCeDf068Ce02C98412Fb7508B758442f5112cFF12",
+		"platform": "elk",
+		"poolName": "ELK/WCRO"
+	},
+	{
+		"token0Name": "ELK",
+		"token1Name": "WCRO",
+		"token0": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+		"token1": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+		"lpAddress": "0x8a01774BF0622cB45b207Bf2BAf0d694300DAC60",
+		"stakingAddress": "0xd7D71e4BC981B50696fa536D330bf745aE563E25",
+		"strategyAddress": "0x54c40212E5c0c97Ec65F69f67DDBe677A5294f35",
+		"vaultAddress": "0x3c457F72224603518DD2a02b6D8B7da6B772bC7f",
 		"platform": "elk",
 		"poolName": "ELK/WCRO"
 	},
