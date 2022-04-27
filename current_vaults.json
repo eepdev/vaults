@@ -337,6 +337,19 @@
 		"poolName": "EURt/USD"
 	},
 	{
+		"token0Name": "EURT",
+		"token1Name": "CRV",
+		"token0": "0x600743B1d8A96438bD46836fD34977a00293f6Aa",
+		"token1": "0x600743B1d8A96438bD46836fD34977a00293f6Aa",
+		"lpAddress": "0x600743B1d8A96438bD46836fD34977a00293f6Aa",
+		"stakingAddress": "0x40c0e9376468b4f257d15F8c47E5D0C646C28880",
+		"strategyAddress": "0xF1c2a5D204008BBDa91Ee6CF5c3b7B2Bd3C53BAb",
+		"vaultAddress": "0xD20EF0AA1CF777E4b227311C0c9be29428f7D629",
+		"singleAsset": false,
+		"platform": "curve",
+		"poolName": "ETH (EURt/USD )"
+	},
+	{
 		"token0Name": "MAI",
 		"token1Name": "CRV",
 		"token0": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
@@ -1434,6 +1447,18 @@
 		"poolName": "MATIC/MUST"
 	},
 	{
+		"token0Name": "MATICX",
+		"token1Name": "WMATIC",
+		"token0": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+		"token1": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+		"lpAddress": "0xb0e69f24982791dd49e316313fD3A791020B8bF7",
+		"stakingAddress": "0x1E16eCc4F912d8dB04b8177b4186bb597267fc25",
+		"strategyAddress": "0x39ea24CA20144a962E61A4aa7F165203C48266Da",
+		"vaultAddress": "0x974469634Cd7d7891Cd0e7fB55053C471a72747E",
+		"platform": "quick",
+		"poolName": "MATICX/WMATIC"
+	},
+	{
 		"token0Name": "MCHC",
 		"token1Name": "WETH",
 		"token0": "0xee7666aacaefaa6efeef62ea40176d3eb21953b9",
@@ -2045,6 +2070,19 @@
 		"vaultAddress": "0xA4a27ac07B6dC76ae6E57C8c40995E98bdbB61B7",
 		"platform": "quick",
 		"poolName": "SOL/WMATIC"
+	},
+	{
+		"token0Name": "SOLACE",
+		"token1Name": "SOLACE",
+		"token0": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
+		"token1": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
+		"lpAddress": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
+		"stakingAddress": "0x501Ace47c5b0C2099C4464f681c3fa2ECD3146C1",
+		"strategyAddress": "0xA37E1e56d3DA9CDc424ed8e7f9fc6a4bB644205d",
+		"vaultAddress": "0xD59A969B860cd41c1764DC07D029b655E76cD4Ec",
+		"singleAsset": true,
+		"platform": "solace",
+		"poolName": "SOLACE/SOLACE"
 	},
 	{
 		"token0Name": "STMATIC",
