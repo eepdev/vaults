@@ -2543,30 +2543,6 @@
 		"poolName": "WMATIC/USDC"
 	},
 	{
-		"token0Name": "WMATIC",
-		"token1Name": "USDC",
-		"token0": "0xFac5C7819fdE19d006244E462Db02ed7Fe346E71",
-		"token1": "0xb828E46a504d52d149464AEE052dC885d8a942a0",
-		"lpAddress": "0xa172bbbfe57fa8e7326bc5598be700c5a16d72c7",
-		"stakingAddress": "0xA27cBEb78F716cef989E4C3F47761fdF91954d71",
-		"strategyAddress": "0x6DE5e20DA47D0b4C2196B865964C9183ceDe6c9E",
-		"vaultAddress": "0xe938A5D0fEbDbfEbf2bD11B8d012C9e055D4AB92",
-		"platform": "test",
-		"poolName": "USDC/WMATIC"
-	},
-	{
-		"token0Name": "WMATIC",
-		"token1Name": "USDC",
-		"token0": "0xFac5C7819fdE19d006244E462Db02ed7Fe346E71",
-		"token1": "0xb828E46a504d52d149464AEE052dC885d8a942a0",
-		"lpAddress": "0xa172bbbfe57fa8e7326bc5598be700c5a16d72c7",
-		"stakingAddress": "0xA27cBEb78F716cef989E4C3F47761fdF91954d71",
-		"strategyAddress": "0xC083E1Bc347789173F02f1e899AD61947B768E34",
-		"vaultAddress": "0xb8c039Ed2466e0A60D9D310ADd85337f4C0b9542",
-		"platform": "test2",
-		"poolName": "USDC/WMATIC"
-	},
-	{
 		"token0Name": "ZUSD",
 		"token1Name": "USDC",
 		"token0": "0x5668f6d40e15188045a1de6295054103c13ffac1",
