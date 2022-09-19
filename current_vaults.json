@@ -664,7 +664,7 @@
 		"poolName": "MANA/WETH"
 	},
 	{
-		"token0Name": "MaticX",
+		"token0Name": "MATICX",
 		"token1Name": "MATIC",
 		"token0": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
 		"token1": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
@@ -674,7 +674,7 @@
 		"vaultAddress": "0x43D26d53361bD4744186A657F0602acBEb05c8bd",
 		"singleAsset": false,
 		"platform": "balancer",
-		"poolName": "MATIC/MaticX"
+		"poolName": "MATIC/MATICX"
 	},
 	{
 		"token0Name": "MATICX",
@@ -713,6 +713,19 @@
 		"poolName": "WMATIC/MaticX"
 	},
 	{
+		"token0Name": "MESH",
+		"token1Name": "adMESH",
+		"token0": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
+		"token1": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
+		"lpAddress": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
+		"stakingAddress": "0x176b29289f66236c65C7ac5DB2400abB5955Df13",
+		"strategyAddress": "0x459dc0fB79653A48469F2C3c375d0A522750Dd40",
+		"vaultAddress": "0x459dc0fB79653A48469F2C3c375d0A522750Dd40",
+		"platform": "meshswap",
+		"singleAsset": true,
+		"poolName": "adMESH Deposit"
+	},
+	{
 		"token0Name": "adMESH",
 		"token1Name": "MESH",
 		"token0": "0x791e974FD87c8d0BCAa9aa253ff4591A5957127c",
@@ -736,19 +749,6 @@
 		"vaultAddress": "0xbB31CBA75d8ce36DF8c57251F3ba422DA6eAC554",
 		"platform": "meshswap",
 		"poolName": "MESH/adMESH"
-	},
-	{
-		"token0Name": "MESH",
-		"token1Name": "MESH",
-		"token0": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
-		"token1": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
-		"lpAddress": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
-		"stakingAddress": "0x176b29289f66236c65C7ac5DB2400abB5955Df13",
-		"strategyAddress": "0x459dc0fB79653A48469F2C3c375d0A522750Dd40",
-		"vaultAddress": "0x459dc0fB79653A48469F2C3c375d0A522750Dd40",
-		"platform": "meshswap",
-		"singleAsset": true,
-		"poolName": "adMESH"
 	},
 	{
 		"token0Name": "MESH",
@@ -1375,6 +1375,19 @@
 		"poolName": "QI/WMATIC"
 	},
 	{
+		"token0Name": "QUICK",
+		"token1Name": "QUICK",
+		"token0": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+		"token1": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+		"lpAddress": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+		"stakingAddress": "0x7b9B6F2bf9A0472761A65BACFDA97Ef3B87B170b",
+		"strategyAddress": "0x3892bAd99bB5fEA14703D9DC435445689c2C0902",
+		"vaultAddress": "0x3ab29e73Aed7D25c19C8531abd123f1e42ffe87F",
+		"singleAsset": true,
+		"platform": "quick",
+		"poolName": "QUICK"
+	},
+	{
 		"token0Name": "TEL",
 		"token1Name": "QUICK",
 		"token0": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
@@ -1493,19 +1506,6 @@
 		"vaultAddress": "0xeFb9ddE96Db6Fd6Ac878Cf58AEb2e01f11f31dF3",
 		"platform": "quick",
 		"poolName": "SD/USDC"
-	},
-	{
-		"token0Name": "SOLACE",
-		"token1Name": "SOLACE",
-		"token0": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
-		"token1": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
-		"lpAddress": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
-		"stakingAddress": "0x501Ace47c5b0C2099C4464f681c3fa2ECD3146C1",
-		"strategyAddress": "0xA37E1e56d3DA9CDc424ed8e7f9fc6a4bB644205d",
-		"vaultAddress": "0xD59A969B860cd41c1764DC07D029b655E76cD4Ec",
-		"singleAsset": true,
-		"platform": "solace",
-		"poolName": "SOLACE/SOLACE"
 	},
 	{
 		"token0Name": "STMATIC",
